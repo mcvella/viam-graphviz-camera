@@ -1,0 +1,5 @@
+viam-sdk==0.31.0
+typing-extensions
+pydot~=3.0.2
+pillow
+requests~=2.32.3

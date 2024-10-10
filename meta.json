@@ -1,0 +1,14 @@
+{
+  "$schema": "https://dl.viam.dev/module.schema.json",
+  "module_id": "mcvella:graphviz",
+  "visibility": "public",
+  "url": "",
+  "description": "Modular camera component: visualize dot input with graphviz",
+  "models": [
+    {
+      "api": "rdk:component:camera",
+      "model": "mcvella:camera:graphviz"
+    }
+  ],
+  "entrypoint": "./run.sh"
+}
