@@ -5,7 +5,7 @@ from viam.module.module import Module
 from viam.components.camera import Camera
 from viam.resource.registry import Registry, ResourceCreatorRegistration
 
-from .graphViz import graphViz
+from graphViz import graphViz
 
 async def main():
     """This function creates and starts a new module, after adding all desired resources.

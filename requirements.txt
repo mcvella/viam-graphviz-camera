@@ -3,3 +3,4 @@ typing-extensions
 pydot~=3.0.2
 pillow
 requests~=2.32.3
+pyinstaller~=6.10.0
